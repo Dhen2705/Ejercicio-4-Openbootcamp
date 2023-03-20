@@ -2,9 +2,9 @@
 
 
 public class Main {
-    public static void main(String[] args) {
-        // crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.
 
+    public static void main(String[] args) {
+        
         int numeroIf = 5;
 
         if (numeroIf>0){
